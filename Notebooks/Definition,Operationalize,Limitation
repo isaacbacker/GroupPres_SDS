@@ -1,0 +1,25 @@
+## Definition of Helpfulness
+Helpfulness is conceptualized as the overall quality of answers users provide in Stack Exchange, encompassing the accuracy, efficiency, timeliness and popularity of respondents’ answers in view of the help-seekers.
+
+## Operationalisation
+To operationalize helpfulness, we measured the following variables as indicators of the relevant conceptual dimensions.
+
+![alt text](image.png)
+Concepts	Dimension	Variables
+Accuracy	Relevance and usefulness of the answers	AcceptedAnswerId
+Efficiency/Quantity	Amount of accepted answers	AnswerCount
+Timeliness	Limitation-Answers created within 2 days	CreationDate
+Reputation	The impact of answers among other help-seekers	Scores
+
+## Reasons for defining helpfulness in these four aspects
+We defined helpfulness from the help-seekers’ perspective, emphasizing the helpfulness of answers. Therefore, the usefulness of questions is out of our consideration temporarily.
+
+We assumed
+1.Answers being accepted are useful ones.
+2.Gardening is a time-sensitive topic, requiring more timely answers since delayed answers may have less practical value.
+3.Scores can accurately represent one accepted answers’ usefulness in general scale.
+
+## Limitation
+1.Lack of consideration for popularity or influence of the question itself. Certain questions that are wider-relevant or more frequently encountered may get greater exposure, thus leading to relatively higher scores.
+2.The 2-day limitation is based on our ontological prior assumptions, which may overlook the answers answered later that might still be useful to a wider range of users beyond original posters.
+3.Limited consideration of the community editing and collaborative contribution of those accepted answers. Since the answers can be edited by other users, simply measuring the helpfulness through the Id of accepted answers may underestimate the contributions of some helpful users who engage more in edit-related works.
