@@ -15,5 +15,6 @@ dependencies = [
     "py7zr>=0.22.0",
     "pyarrow>=17.0.0",
     "requests>=2.32.3",
+    "scipy>=1.15.3",
     "tqdm>=4.66.5",
 ]
