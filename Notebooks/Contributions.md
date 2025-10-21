@@ -14,3 +14,14 @@ Set up Github repository. Wrote the code for the section on 'when helpful users 
 
 ### AI declaration
 Used Claude 4.5 to generate the code for the data visualisation part, as I am not yet familiar with data visualisation in Python. Explained the relevant variables and the type of visualisation I wanted, and then let it create the code for the matplotlib plot.
+
+## Bruno Kneffel
+
+### Contribution
+My contributions to the group work were:
+1. Responsible for the PPT presentation, creating strawman, storyline, and slides
+2. Exploratory data analysis
+3. I contributed in small parts to the cleaning of the code
+
+### AI declaration
+Used Claude 4.5 and GPT-5 to help me understand the code written by the others; For matplotlib creating understanding of the syntax and functionality; helping with finding synoyms for the slide presentation 
