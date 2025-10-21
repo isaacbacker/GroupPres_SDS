@@ -41,3 +41,11 @@ Participated and helped with drafting early discussions on definition and limita
 
 ### AI declaration
 I used Chatgpt 5 to assist in understanding others' codes, debugging my codes while exploring the data, as well as helping to improve the clarity and grammar of my writing.
+
+## Max Davy
+
+### Contribution
+Collaborated on definition of helpfulness; wrote initial analysis code defining helpfulness and analysing how a small group of users contributed most helpful answers (Q1), added Spearman correlation and a few minor code changes; drafted slides motivating helpfulness definition and presented on them.
+
+### AI declaration
+Limited usage of Copilot auto-complete, otherwise nothing.
