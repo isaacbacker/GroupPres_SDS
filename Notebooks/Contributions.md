@@ -25,3 +25,11 @@ My contributions to the group work were:
 
 ### AI declaration
 Used Claude 4.5 and GPT-5 to help me understand the code written by the others; For matplotlib creating understanding of the syntax and functionality; helping with finding synoyms for the slide presentation 
+
+## Sophie Bair
+
+### Contribution
+Made an outline for the presentation, performed analysis on the number of questions asked/answered and the comparison to reputation, cleaned up a large portion of the code, and contributed to the live presentation. 
+
+### AI declaration
+I used the AI auto-complete function to finish some code and used Chat-GPT to help me set up the virtual environment and understand how to install the relevant package requirements. 
