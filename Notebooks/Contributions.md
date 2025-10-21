@@ -33,3 +33,11 @@ Made an outline for the presentation, performed analysis on the number of questi
 
 ### AI declaration
 I used the AI auto-complete function to finish some code and used Chat-GPT to help me set up the virtual environment and understand how to install the relevant package requirements. 
+
+## Yilin Qian
+
+### Contribution
+Participated and helped with drafting early discussions on definition and limitations, explored some possible impact of "score" variable, worked on a small section of the slides and presented the summary part.
+
+### AI declaration
+I used Chatgpt 5 to assist in understanding others' codes, debugging my codes while exploring the data, as well as helping to improve the clarity and grammar of my writing.
