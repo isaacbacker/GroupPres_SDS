@@ -1,0 +1,16 @@
+edgeID,from,to,networkCanvasEgoUUID,networkCanvasUUID,networkCanvasSourceUUID,networkCanvasTargetUUID
+1,9,7,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,46637b74-55d4-4cb2-bb92-6d1d1e66b0b9,ndsons1JEx,FGwAQx51J8
+2,9,3,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,168c8de6-fdd6-4731-9b39-29d7c43ddad5,ndsons1JEx,kojNKla2jv
+3,3,7,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,74db5e7b-abcb-47b5-a1a4-ee4b0d53ed89,kojNKla2jv,FGwAQx51J8
+4,4,7,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,6018b20a-6d0d-4b9a-9465-d7c7b07daea5,RtJiUdZJi6,FGwAQx51J8
+5,4,2,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,d7cf1fc6-e48c-4f41-91a8-0f98adf50ac0,RtJiUdZJi6,zfLP4gy4BA
+6,4,5,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,cad1a9ba-317c-4ac4-82fb-faccded78ae7,RtJiUdZJi6,KaMS6JqOHq
+7,1,5,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,3a897c7d-d1a3-45aa-ad0e-86ed256a5d88,ZuysvCGddv,KaMS6JqOHq
+8,1,8,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,c979ab96-9795-45f9-a373-6d9e53c44a5c,ZuysvCGddv,uBiRoP3A3s
+9,1,10,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,9fa356cc-e59f-4a0b-9f3d-f73bcc121d8b,ZuysvCGddv,QUTNIZIDgY
+10,10,5,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,230ad413-9d43-4800-afc4-5dd8a57d281e,QUTNIZIDgY,KaMS6JqOHq
+11,10,8,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,5ef8d02c-6fc1-40d3-9a87-8d533b928435,QUTNIZIDgY,uBiRoP3A3s
+12,5,2,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,4292f9b8-f6a9-42bd-a0f5-3c4c9254db03,KaMS6JqOHq,zfLP4gy4BA
+13,2,6,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,d2eae66f-880a-4aae-8895-6ac711cc2beb,zfLP4gy4BA,acTsAWfdzn
+14,2,3,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,381a1fa9-f37e-499b-a979-5362287cf53e,zfLP4gy4BA,kojNKla2jv
+15,3,4,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,a372334c-2203-4301-8a23-1900e86cf42f,kojNKla2jv,RtJiUdZJi6

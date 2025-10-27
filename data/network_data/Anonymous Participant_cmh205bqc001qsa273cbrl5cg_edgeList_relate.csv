@@ -1,0 +1,9 @@
+edgeID,from,to,networkCanvasEgoUUID,networkCanvasUUID,networkCanvasSourceUUID,networkCanvasTargetUUID
+1,5,6,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,939add15-1943-4d82-bbfc-de525164f029,N7PLUDZOj9,vXCsxVu5lG
+2,2,1,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,a62ff177-257f-44da-954a-a750a407bca0,RtJiUdZJi6,ZuysvCGddv
+3,10,3,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,bc8f7cb3-daf1-4e21-b1f4-2a1d6b51bb1a,YfjJV5hkMD,WAhTMmxJoA
+4,11,5,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,2c8f6581-9eb7-4b84-96d1-298512d7ebd6,KaMS6JqOHq,N7PLUDZOj9
+5,7,8,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,f613534d-8240-4aa5-af9f-78a8038c24a5,ndsons1JEx,OruxeroRhC
+6,9,1,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,e28f1aaa-dd1a-4778-9df8-48b02b89c12c,m3bCphZ8J2,ZuysvCGddv
+7,9,3,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,c688beaf-f901-4261-ac4a-b58a6b8d519c,m3bCphZ8J2,WAhTMmxJoA
+8,9,10,7be8425e-a3ba-4d37-a9c9-14ea20de21cb,abb48c75-d9a3-411c-8236-d977cd1f35e0,m3bCphZ8J2,YfjJV5hkMD

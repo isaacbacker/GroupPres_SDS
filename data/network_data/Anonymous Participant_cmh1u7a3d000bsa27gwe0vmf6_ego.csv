@@ -1,0 +1,2 @@
+networkCanvasEgoUUID,networkCanvasCaseID,networkCanvasSessionID,networkCanvasProtocolName,sessionStart,sessionFinish,sessionExported,APP_VERSION,COMMIT_HASH,secret_word
+7be8425e-a3ba-4d37-a9c9-14ea20de21cb,Anonymous Participant,cmh1u7a3d000bsa27gwe0vmf6,FSDS_ConceptMap_v01.netcanvas,2025-10-22T10:15:04.154Z,2025-10-22T10:19:50.992Z,2025-10-24T12:37:16.921Z,v3.0.0,Unknown commit hash,Dolphin
